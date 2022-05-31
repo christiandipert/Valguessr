@@ -139,10 +139,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="loadMaps.cpp" />
     <ClCompile Include="testWebcam.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cvtest.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="maps\ascent.PNG" />
+    <Image Include="maps\bind.PNG" />
+    <Image Include="maps\breeze.PNG" />
+    <Image Include="maps\fracture.PNG" />
+    <Image Include="maps\haven.PNG" />
+    <Image Include="maps\icebox.PNG" />
+    <Image Include="maps\split.PNG" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

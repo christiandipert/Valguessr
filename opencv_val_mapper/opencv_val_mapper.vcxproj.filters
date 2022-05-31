@@ -21,10 +21,36 @@
     <ClCompile Include="testWebcam.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="loadMaps.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cvtest.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="maps\ascent.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="maps\bind.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="maps\breeze.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="maps\fracture.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="maps\haven.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="maps\icebox.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="maps\split.PNG">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
