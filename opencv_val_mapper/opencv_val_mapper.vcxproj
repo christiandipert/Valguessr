@@ -147,6 +147,7 @@
     <ClInclude Include="cvtest.h" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\..\..\..\Desktop\ValguessrBanner.jpg" />
     <Image Include="maps\ascent.PNG" />
     <Image Include="maps\bind.PNG" />
     <Image Include="maps\breeze.PNG" />

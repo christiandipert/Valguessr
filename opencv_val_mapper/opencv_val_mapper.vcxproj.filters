@@ -55,5 +55,8 @@
     <Image Include="maps\split.PNG">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="..\..\..\..\Desktop\ValguessrBanner.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
