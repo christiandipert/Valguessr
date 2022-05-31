@@ -12,3 +12,4 @@ using namespace cv;
 
 int testWebcam(int fps);
 vector<Mat> loadMaps();
+int calcRandomIndex(int start, int end);

@@ -140,6 +140,7 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="loadMaps.cpp" />
+    <ClCompile Include="maps\calcRandomIndex.cpp" />
     <ClCompile Include="testWebcam.cpp" />
   </ItemGroup>
   <ItemGroup>
